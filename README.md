@@ -4,6 +4,12 @@
 
 I build Business Central solutions focused on **clean architecture, extensibility, integration, and business value**.
 
+🛠️ Tools & Technologies
+
+Dynamics 365 Business Central Microsoft SQL Server Power BI MS Office
+
+Power Automate SharePoint Azure Fundamentals VS Code
+
 ## 🚀 Focus
 
 - Microsoft Dynamics 365 Business Central
